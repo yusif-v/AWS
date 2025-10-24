@@ -1,0 +1,49 @@
+# Obsidian system folders
+.obsidian/workspace*
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/plugins/
+.obsidian/snippets/
+
+# If you want to sync Obsidian settings between devices, comment out the above line
+# and ignore only plugin binaries:
+# .obsidian/plugins/*/*.js
+# .obsidian/plugins/*/*.json
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.log
+
+# Cache and sync metadata
+.obsidian/cache/
+.obsidian/plugins-obsidian42-brat/
+.obsidian/plugins/obsidian-remotely-save/
+.obsidian/plugins/obsidian-git/
+
+# Cloud sync folders (e.g. iCloud, OneDrive temp files)
+*.icloud
+*.icloud~*
+*.tmp
+~$*
+
+# Node or Python virtual environments if you keep code in your vault
+node_modules/
+venv/
+.env
+
+# Ignore binary assets (optional)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.zip
