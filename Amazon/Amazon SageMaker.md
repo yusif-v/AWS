@@ -5,10 +5,10 @@ Fully managed machine learning (ML) service for building, training, and deployin
 
 ### Related Services
 
-- Amazon S3: Stores datasets, models, and training artifacts for SageMaker.
-- AWS Lambda: Triggers SageMaker endpoints for serverless inference.
-- Amazon CloudWatch: Monitors SageMaker training jobs and endpoint performance.
-- AWS Glue: Prepares and transforms data for SageMaker.
+- [[Amazon S3]]: Stores datasets, models, and training artifacts for SageMaker.
+- [[AWS Lambda]]: Triggers SageMaker endpoints for serverless inference.
+- [[Amazon CloudWatch]]: Monitors SageMaker training jobs and endpoint performance.
+- [[AWS Glue]]: Prepares and transforms data for SageMaker.
 - Amazon API Gateway: Exposes SageMaker models as APIs.
 
 ### Related Concepts

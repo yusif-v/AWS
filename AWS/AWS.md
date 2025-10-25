@@ -21,3 +21,4 @@
 [[AWS Snowball Edge]]
 [[AWS CodeStar]]
 [[AWS rePost]]
+[[AWS Elastic Beanstalk]]

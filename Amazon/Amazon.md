@@ -25,3 +25,4 @@
 [[Amazon EventBridge]]
 [[Amazon Macie]]
 [[Amazon Kendra]]
+[[Amazon Comprehend]]
