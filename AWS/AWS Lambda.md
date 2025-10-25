@@ -5,10 +5,10 @@ Serverless compute service that runs code in response to events without managing
 
 ### Related Services
 
-- Amazon API Gateway: Triggers Lambda for HTTP-based APIs.
-- Amazon S3: Invokes Lambda on object events (e.g., uploads).
-- Amazon DynamoDB: Processes table updates via streams.
-- Amazon CloudWatch: Monitors Lambda metrics, logs, and triggers scheduled events.
+- [[Amazon API Gateway]]: Triggers Lambda for HTTP-based APIs.
+- [[Amazon S3]]: Invokes Lambda on object events (e.g., uploads).
+- [[Amazon DynamoDB]]: Processes table updates via streams.
+- [[Amazon CloudWatch]]: Monitors Lambda metrics, logs, and triggers scheduled events.
 - AWS SNS/SQS: Sends messages to Lambda for event handling.
 
 ### Related Concepts
