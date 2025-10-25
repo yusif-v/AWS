@@ -6,10 +6,10 @@ Fully managed, cloud-based contact center service for omnichannel customer inter
 ### Related Services
 
 - [[AWS Lambda]]: Powers custom logic in contact flows.
-- Amazon Lex]]: Builds conversational AI for IVR and chatbots.
-- Amazon S3: Stores contact data and analytics.
-- Amazon CloudWatch: Monitors performance and metrics.
-- Amazon Kinesis: Streams real-time data for analysis.
+- [[Amazon Lex]]: Builds conversational AI for IVR and chatbots.
+- [[Amazon S3]]: Stores contact data and analytics.
+- [[Amazon CloudWatch]]: Monitors performance and metrics.
+- [[Amazon Kinesis]]: Streams real-time data for analysis.
 
 ### Related Concepts
 
