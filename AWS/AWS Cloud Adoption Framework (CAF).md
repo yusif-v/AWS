@@ -27,5 +27,5 @@ Structured methodology to guide organizations through cloud migration and transf
 ### Related Concepts
 
 - [[AWS Well-Architected Framework]]: Complements CAF with architecture best practices.
-- Shared Responsibility Model: Defines security and operational responsibilities.
+- [[AWS Shared Responsibility Model]]: Defines security and operational responsibilities.
 - Cloud Maturity Model: Assesses and tracks cloud adoption progress.

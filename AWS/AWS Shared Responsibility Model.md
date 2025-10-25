@@ -36,11 +36,11 @@ Framework defining the division of security and compliance responsibilities betw
 ### Related Services
 
 - AWS IAM: Manages user access and permissions for customer responsibilities.
-- AWS KMS: Encrypts data at rest for customer-managed security.
-- Amazon CloudTrail: Logs API activity for auditing customer actions.
-- Amazon CloudWatch: Monitors resources for customer oversight.
-- AWS Artifact: Provides compliance reports for AWS infrastructure certifications.
-- AWS Shield: Protects infrastructure from DDoS attacks.
+- [[AWS KMS]]: Encrypts data at rest for customer-managed security.
+- [[Amazon CloudTrail]]: Logs API activity for auditing customer actions.
+- [[Amazon CloudWatch]]: Monitors resources for customer oversight.
+- [[AWS Artifact]]: Provides compliance reports for AWS infrastructure certifications.
+- [[AWS Shield]]: Protects infrastructure from DDoS attacks.
 
 ### Related Concepts
 
