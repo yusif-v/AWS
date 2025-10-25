@@ -23,3 +23,4 @@
 [[AWS rePost]]
 [[AWS Elastic Beanstalk]]
 [[AWS Management Console]]
+[[AWS Architecture Design Principles]]

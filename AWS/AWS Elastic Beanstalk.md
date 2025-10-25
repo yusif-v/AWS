@@ -13,7 +13,7 @@ Platform-as-a-Service (PaaS) for deploying and managing web applications and ser
 
 ### Related Concepts
 
-- [[Infrastructure as Code]]: Deploys applications via configuration files.
+- [[Infrastructure as Code (IaC)]]: Deploys applications via configuration files.
 - Environment Management: Manages web server and worker tiers for apps and tasks.
 - Deployment Strategies: Supports rolling, immutable, and blue/green deployments.
 - [[Platform as a Service (PaaS)]]: Abstracts infrastructure for developer productivity.
