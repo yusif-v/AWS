@@ -22,3 +22,4 @@
 [[AWS CodeStar]]
 [[AWS rePost]]
 [[AWS Elastic Beanstalk]]
+[[AWS Management Console]]
