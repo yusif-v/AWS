@@ -10,6 +10,13 @@ Structured methodology to guide organizations through cloud migration and transf
 - **Security**: Ensures risk management, compliance, and data protection.
 - **Operations**: Defines processes for monitoring and optimizing cloud environments.
 
+### Phases
+
+- **Envision**: Identifies transformation opportunities aligned with business objectives and develops a high-level strategy.
+- **Align**: Assesses organizational readiness, identifies gaps, and aligns stakeholders on cloud adoption priorities.
+- **Launch**: Implements pilot initiatives, migrates initial workloads, and builds momentum with quick wins.
+- **Scale**: Expands cloud adoption across the organization, optimizes operations, and drives continuous improvement.
+
 ### Related Services
 
 - AWS Migration Hub: Tracks migration progress, supporting Platform domain.
