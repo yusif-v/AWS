@@ -5,7 +5,7 @@ Hybrid cloud service that extends AWS infrastructure and services to on-premises
 
 ### Related Services
 
-- Amazon EC2: Runs compute instances on Outposts hardware.
+- [[Amazon EC2]]: Runs compute instances on Outposts hardware.
 - Amazon EBS: Provides block storage for Outposts instances.
 - Amazon ECS/EKS: Manages containerized workloads on Outposts.
 - [[AWS CloudFormation]]: Provisions and manages Outposts resources.

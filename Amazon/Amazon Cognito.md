@@ -5,9 +5,9 @@ Fully managed identity service for secure user authentication, authorization, an
 
 ### Related Services
 
-- Amazon API Gateway: Integrates with Cognito for securing API access.
-- AWS IAM: Works with Cognito identity pools to grant AWS resource access.
-- AWS Lambda: Triggers custom authentication workflows or processes Cognito events.
+- [[Amazon API Gateway]]: Integrates with Cognito for securing API access.
+- [[AWS IAM]]: Works with Cognito identity pools to grant AWS resource access.
+- [[AWS Lambda]]: Triggers custom authentication workflows or processes Cognito events.
 - [[Amazon S3]]: Stores user data or integrates with identity pools for access.
 
 ### Related Concepts

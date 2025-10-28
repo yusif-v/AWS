@@ -6,8 +6,8 @@ Fully managed service for securely controlling access to AWS resources. Defines 
 ### Related Services
 
 - AWS Single Sign-On (SSO): Centralizes access across AWS accounts and applications.
-- AWS Organizations: Applies centralized IAM policies across multiple accounts.
-- Amazon Cognito: Handles user authentication for apps, integrating with IAM.
+- [[AWS Organizations]]: Applies centralized IAM policies across multiple accounts.
+- [[Amazon Cognito]]: Handles user authentication for apps, integrating with IAM.
 - AWS STS: Issues temporary credentials for roles and federation.
 - [[Amazon CloudWatch]]: Monitors IAM events and access patterns.
 

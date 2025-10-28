@@ -6,9 +6,9 @@ Service for collecting and analyzing data about on-premises applications and inf
 ### Related Services
 
 - [[AWS Migration Hub]]: Centralizes discovery data and tracks migration progress.
-- Amazon EC2: Target for migrating discovered applications.
+- [[Amazon EC2]]: Target for migrating discovered applications.
 - AWS Systems Manager: Integrates for agent-based discovery and management.
-- Amazon S3: Stores discovery data exports.
+- [[Amazon S3]]: Stores discovery data exports.
 - [[AWS Database Migration Service (DMS)]]: Migrates databases identified during discovery.
 
 ### Related Concepts

@@ -5,11 +5,11 @@ Scalable, highly available Domain Name System (DNS) service for routing traffic 
 
 ### Related Services
 
-- Amazon CloudFront: Integrates with Route 53 for low-latency content delivery.
+- [[Amazon CloudFront]]: Integrates with Route 53 for low-latency content delivery.
 - Elastic Load Balancing (ELB): Routes traffic to load balancers for high availability.
-- Amazon EC2: Directs DNS queries to EC2 instances.
+- [[Amazon EC2]]: Directs DNS queries to EC2 instances.
 - [[Amazon S3]]: Hosts static websites with Route 53 DNS.
-- AWS Shield: Protects Route 53 from DDoS attacks.
+- [[AWS Shield]]: Protects Route 53 from DDoS attacks.
 
 ### Related Concepts
 

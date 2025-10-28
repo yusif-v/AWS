@@ -5,11 +5,11 @@ Platform-as-a-Service (PaaS) for deploying and managing web applications and ser
 
 ### Related Services
 
-- Amazon EC2: Provides compute instances for Beanstalk environments.
+- [[Amazon EC2]]: Provides compute instances for Beanstalk environments.
 - Elastic Load Balancing (ELB): Distributes traffic across application instances.
-- AWS Auto Scaling: Adjusts capacity based on demand.
-- Amazon CloudWatch: Monitors application performance and logs.
-- Amazon RDS: Integrates for relational database support.
+- [[AWS Auto Scaling]]: Adjusts capacity based on demand.
+- [[Amazon CloudWatch]]: Monitors application performance and logs.
+- [[Amazon RDS]]: Integrates for relational database support.
 
 ### Related Concepts
 

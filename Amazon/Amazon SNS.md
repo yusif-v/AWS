@@ -5,11 +5,11 @@ Fully managed messaging service for sending notifications and messages to a larg
 
 ### Related Services
 
-- AWS Lambda: Processes SNS messages for event-driven workflows.
+- [[AWS Lambda]]: Processes SNS messages for event-driven workflows.
 - Amazon SQS: Receives SNS messages for queue-based processing.
-- Amazon CloudWatch: Monitors SNS metrics and delivery status.
-- AWS IAM: Controls access to SNS topics and subscriptions.
-- Amazon S3: Triggers SNS notifications for bucket events.
+- [[Amazon CloudWatch]]: Monitors SNS metrics and delivery status.
+- [[AWS IAM]]: Controls access to SNS topics and subscriptions.
+- [[Amazon S3]]: Triggers SNS notifications for bucket events.
 
 ### Related Concepts
 

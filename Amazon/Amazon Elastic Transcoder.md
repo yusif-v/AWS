@@ -5,11 +5,11 @@ Fully managed media transcoding service for converting video and audio files int
 
 ### Related Services
 
-- Amazon S3: Stores input and output media files for transcoding.
-- AWS Lambda: Triggers transcoding jobs or processes output files.
-- Amazon CloudWatch: Monitors transcoder performance and job status.
-- Amazon SNS: Sends notifications for job completion or errors.
-- AWS IAM: Controls access to transcoder pipelines and resources.
+- [[Amazon S3]]: Stores input and output media files for transcoding.
+- [[AWS Lambda]]: Triggers transcoding jobs or processes output files.
+- [[Amazon CloudWatch]]: Monitors transcoder performance and job status.
+- [[Amazon SNS]]: Sends notifications for job completion or errors.
+- [[AWS IAM]]: Controls access to transcoder pipelines and resources.
 
 ### Related Concepts
 

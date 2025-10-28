@@ -7,7 +7,7 @@ Self-service portal for on-demand access to AWS compliance documents, such as SO
 
 - AWS Audit Manager: Uses Artifact reports to automate compliance evidence collection.
 - [[AWS Config]]: Tracks resource configurations to support compliance referenced in Artifact documents.
-- AWS CloudTrail: Logs API activity for auditing, complementing Artifact’s compliance reports.
+- [[AWS CloudTrail]]: Logs API activity for auditing, complementing Artifact’s compliance reports.
 - AWS Security Hub: Centralizes compliance findings, leveraging Artifact documents.
 
 ### Related Concepts

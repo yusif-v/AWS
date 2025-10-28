@@ -5,11 +5,11 @@ Web-based user interface for accessing, managing, and configuring AWS services. 
 
 ### Related Services
 
-- AWS IAM: Controls console access with users, roles, and policies.
-- AWS Organizations: Manages multiple accounts via console.
-- Amazon CloudWatch: Views metrics and alarms in console dashboards.
+- [[AWS IAM]]: Controls console access with users, roles, and policies.
+- [[AWS Organizations]]: Manages multiple accounts via console.
+- [[Amazon CloudWatch]]: Views metrics and alarms in console dashboards.
 - AWS Billing and Cost Management: Monitors costs and budgets through console.
-- AWS Support: Creates cases and accesses documentation in console.
+- [[AWS Support]]: Creates cases and accesses documentation in console.
 
 ### Related Concepts
 

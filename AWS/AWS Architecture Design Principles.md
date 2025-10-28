@@ -16,9 +16,9 @@ Guidelines for building robust, scalable, and efficient systems on AWS, aligned 
 
 - [[AWS CloudFormation]]: Enables automated, repeatable infrastructure provisioning.
 - [[Elastic Load Balancing (ELB)]]: Distributes traffic to avoid overload and single failures.
-- Amazon SQS: Facilitates loose coupling via asynchronous messaging.
-- AWS Auto Scaling: Automates resource scaling for elasticity.
-- AWS Well-Architected Tool: Evaluates architectures against design principles.
+- [[Amazon SQS]]: Facilitates loose coupling via asynchronous messaging.
+- [[AWS Auto Scaling]]: Automates resource scaling for elasticity.
+- [[AWS Well-Architected Tool]]: Evaluates architectures against design principles.
 
 ### Related Concepts
 

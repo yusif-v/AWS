@@ -6,9 +6,9 @@ Fully managed NoSQL database service for high-performance, scalable applications
 ### Related Services
 
 - [[AWS Lambda]]: Triggers functions on DynamoDB events (e.g., data changes).
-- Amazon API Gateway: Exposes DynamoDB data via RESTful APIs.
-- Amazon CloudWatch: Monitors DynamoDB performance metrics and capacity.
-- AWS Glue: Crawls DynamoDB for data cataloging and ETL.
+- [[Amazon API Gateway]]: Exposes DynamoDB data via RESTful APIs.
+- [[Amazon CloudWatch]]: Monitors DynamoDB performance metrics and capacity.
+- [[AWS Glue]]: Crawls DynamoDB for data cataloging and ETL.
 - [[Amazon S3]]: Stores DynamoDB backups or exported data.
 
 ### Related Concepts

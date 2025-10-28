@@ -8,7 +8,7 @@ Intelligent threat detection service that continuously monitors AWS accounts and
 - [[Amazon CloudWatch]]: Monitors and triggers actions based on GuardDuty findings.
 - AWS CloudTrail: Provides API and user activity logs for GuardDuty analysis.
 - [[Amazon S3]]: Stores GuardDuty findings and logs.
-- AWS Lambda: Automates responses to GuardDuty alerts.
+- [[AWS Lambda]]: Automates responses to GuardDuty alerts.
 - AWS IAM: Secures access to GuardDuty resources and findings.
 
 ### Related Concepts

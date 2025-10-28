@@ -17,12 +17,12 @@ Fully managed object storage service for storing, retrieving, and managing any a
 
 - **[[S3 Versioning|Versioning]]**: Maintains multiple object versions for recovery from overwrites or deletions.
 - **[[S3 Lifecycle|Lifecycle]]**: Automates object transitions between storage classes or deletes expired data.
-- **Encryption**: Supports server-side (SSE-S3, SSE-KMS, SSE-C) and client-side encryption for data security.
-- **Access Control**: Uses bucket policies, IAM policies, and ACLs for granular permission management.
-- **Event Notifications**: Triggers AWS Lambda, SNS, or SQS on bucket events (e.g., uploads, deletions).
-- **Replication**: Cross-Region (CRR) or Same-Region (SRR) replication for redundancy or compliance.
+- **[[S3 Encryption|Encryption]]**: Supports server-side (SSE-S3, SSE-KMS, SSE-C) and client-side encryption for data security.
+- **[[S3 Access Control|Access Control]]**: Uses bucket policies, IAM policies, and ACLs for granular permission management.
+- **[[S3 Event Notifications|Event Notifications]]**: Triggers AWS Lambda, SNS, or SQS on bucket events (e.g., uploads, deletions).
+- [[S3 Replication|Replication]]: Cross-Region (CRR) or Same-Region (SRR) replication for redundancy or compliance.
 - **Static Website Hosting**: Serves web content from buckets with custom domain support.
-- **S3 Select**: Queries specific object data using SQL-like expressions for efficient retrieval.
+- **[[S3 Select]]**: Queries specific object data using SQL-like expressions for efficient retrieval.
 
 ### Related Services
 

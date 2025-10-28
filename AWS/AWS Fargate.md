@@ -7,9 +7,9 @@ Serverless compute engine for containers, allowing you to run Docker containers 
 
 - Amazon ECS (Elastic Container Service): Orchestrates containers with Fargate as the launch type.
 - Amazon EKS (Elastic Kubernetes Service): Manages Kubernetes workloads using Fargate.
-- Amazon CloudWatch: Monitors Fargate container metrics and logs.
+- [[Amazon CloudWatch]]: Monitors Fargate container metrics and logs.
 - AWS Application Load Balancer: Distributes traffic to Fargate tasks.
-- AWS IAM: Controls access to Fargate resources.
+- [[AWS IAM]]: Controls access to Fargate resources.
 
 ### Related Concepts
 

@@ -8,7 +8,7 @@ Fully managed serverless event bus service for connecting applications using eve
 - [[AWS Lambda]]: Processes events routed by EventBridge.
 - [[Amazon SNS]]: Receives EventBridge events for notifications.
 - [[Amazon SQS]]: Queues EventBridge events for processing.
-- Amazon CloudWatch: Monitors EventBridge metrics and logs events.
+- [[Amazon CloudWatch]]: Monitors EventBridge metrics and logs events.
 - AWS Step Functions: Orchestrates workflows triggered by EventBridge.
 
 ### Related Concepts

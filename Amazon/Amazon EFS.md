@@ -5,11 +5,11 @@ Fully managed, scalable file storage service for shared access across multiple E
 
 ### Related Services
 
-- Amazon EC2: Mounts EFS for shared file storage across instances.
+- [[Amazon EC2]]: Mounts EFS for shared file storage across instances.
 - [[AWS Lambda]]: Accesses EFS for serverless file storage.
 - Amazon ECS/EKS: Uses EFS for containerized application storage.
 - [[AWS DataSync]]: Transfers data to/from EFS.
-- Amazon CloudWatch: Monitors EFS performance and usage metrics.
+- [[Amazon CloudWatch]]: Monitors EFS performance and usage metrics.
 
 ### Related Concepts
 

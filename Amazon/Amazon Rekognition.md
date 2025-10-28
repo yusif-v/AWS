@@ -5,11 +5,11 @@ Fully managed computer vision service for analyzing images and videos. Uses mach
 
 ### Related Services
 
-- Amazon S3: Stores images and videos for Rekognition analysis.
-- AWS Lambda: Triggers Rekognition for automated image/video processing.
-- Amazon CloudWatch: Monitors Rekognition API usage and metrics.
-- Amazon API Gateway: Exposes Rekognition capabilities via APIs.
-- Amazon SNS: Sends notifications based on Rekognition results.
+- [[Amazon S3]]: Stores images and videos for Rekognition analysis.
+- [[AWS Lambda]]: Triggers Rekognition for automated image/video processing.
+- [[Amazon CloudWatch]]: Monitors Rekognition API usage and metrics.
+- [[Amazon API Gateway]]: Exposes Rekognition capabilities via APIs.
+- [[Amazon SNS]]: Sends notifications based on Rekognition results.
 
 ### Related Concepts
 

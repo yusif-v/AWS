@@ -5,11 +5,11 @@ Serverless, interactive query service for analyzing data in Amazon S3 using stan
 
 ### Related Services
 
-- Amazon S3: Stores data queried by Athena.
-- AWS Glue: Creates data catalog for schema and metadata management.
-- Amazon QuickSight: Visualizes Athena query results in dashboards.
-- Amazon CloudWatch: Monitors Athena query performance and logs.
-- AWS IAM: Controls access to Athena queries and data.
+- [[Amazon S3]]: Stores data queried by Athena.
+- [[AWS Glue]]: Creates data catalog for schema and metadata management.
+- [[Amazon QuickSight]]: Visualizes Athena query results in dashboards.
+- [[Amazon CloudWatch]]: Monitors Athena query performance and logs.
+- [[AWS IAM]] Controls access to Athena queries and data.
 
 ### Related Concepts
 

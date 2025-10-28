@@ -5,11 +5,11 @@ Fully managed automatic speech recognition (ASR) service that converts audio to 
 
 ### Related Services
 
-- Amazon S3: Stores audio inputs and transcription outputs.
-- AWS Lambda: Triggers processing or post-processing of transcriptions.
+- [[Amazon S3]]: Stores audio inputs and transcription outputs.
+- [[AWS Lambda]]: Triggers processing or post-processing of transcriptions.
 - [[Amazon Polly]]: Converts transcribed text back to speech.
 - [[Amazon CloudWatch]]: Monitors transcription job performance and metrics.
-- Amazon Comprehend: Analyzes transcribed text for sentiment or entities.
+- [[Amazon Comprehend]]: Analyzes transcribed text for sentiment or entities.
 
 ### Related Concepts
 

@@ -5,11 +5,11 @@ Content Delivery Network (CDN) service that accelerates delivery of static and d
 
 ### Related Services
 
-- Amazon S3: Stores static content served by CloudFront.
+- [[Amazon S3]]: Stores static content served by CloudFront.
 - Elastic Load Balancing (ELB): Distributes traffic for dynamic content with CloudFront.
 - AWS Lambda@Edge: Runs serverless code at edge locations for customized content delivery.
-- AWS Shield: Provides DDoS protection for CloudFront distributions.
-- AWS WAF: Filters malicious traffic for CloudFront-hosted content.
+- [[AWS Shield]]: Provides DDoS protection for CloudFront distributions.
+- [[AWS WAF]]: Filters malicious traffic for CloudFront-hosted content.
 
 ### Related Concepts
 

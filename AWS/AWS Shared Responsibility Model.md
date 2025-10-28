@@ -23,9 +23,9 @@ Framework defining the division of security and compliance responsibilities betw
 
 ### Variation by Service
 
-- **IaaS (EC2)**: Customers manage guest OS, applications, and configurations.
-- **PaaS (RDS, Elastic Beanstalk)**: AWS manages OS; customers handle data and access.
-- **SaaS (WorkSpaces)**: AWS manages most aspects; customers manage user access and data.
+- **[[Infrastructure as a Service (IaaS)|IaaS]] (EC2)**: Customers manage guest OS, applications, and configurations.
+- **[[Platform as a Service (PaaS)|PaaS]] (RDS, Elastic Beanstalk)**: AWS manages OS; customers handle data and access.
+- **[[Software as a Service (SaaS)|SaaS]] (WorkSpaces)**: AWS manages most aspects; customers manage user access and data.
 
 ### Shared Controls
 

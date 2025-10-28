@@ -9,7 +9,7 @@ Fully managed machine learning (ML) service for building, training, and deployin
 - [[AWS Lambda]]: Triggers SageMaker endpoints for serverless inference.
 - [[Amazon CloudWatch]]: Monitors SageMaker training jobs and endpoint performance.
 - [[AWS Glue]]: Prepares and transforms data for SageMaker.
-- Amazon API Gateway: Exposes SageMaker models as APIs.
+- [[Amazon API Gateway]]: Exposes SageMaker models as APIs.
 
 ### Related Concepts
 
