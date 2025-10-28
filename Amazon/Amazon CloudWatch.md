@@ -9,7 +9,7 @@ Monitoring and observability service for AWS resources and applications. Collect
 - [[AWS Lambda]]: Tracks function performance and invocation logs.
 - [[Amazon S3]]: Logs bucket access and storage metrics.
 - [[Amazon RDS]]: Monitors database performance and health.
-- AWS Auto Scaling: Uses CloudWatch metrics to trigger scaling actions.
+- [[AWS Auto Scaling]]: Uses CloudWatch metrics to trigger scaling actions.
 
 ### Related Concepts
 

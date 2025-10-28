@@ -7,8 +7,8 @@ Fully managed graph database service optimized for storing and querying highly c
 
 - [[Amazon EC2]]: Hosts applications that query Neptune databases.
 - [[Amazon CloudWatch]]: Monitors Neptune performance and operational metrics.
-- AWS IAM: Manages access to Neptune resources and queries.
-- AWS Lambda: Integrates with Neptune for serverless query processing.
+- [[AWS IAM]]: Manages access to Neptune resources and queries.
+- [[AWS Lambda]]: Integrates with Neptune for serverless query processing.
 - [[Amazon S3]]: Stores Neptune backups and export data.
 
 ### Related Concepts

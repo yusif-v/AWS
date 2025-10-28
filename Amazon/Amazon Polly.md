@@ -7,9 +7,9 @@ Text-to-speech service that converts text into lifelike speech using advanced de
 
 - [[Amazon Lex]]: Integrates with Polly for conversational bot voice responses.
 - [[Amazon S3]]: Stores Polly-generated audio files.
-- AWS Lambda: Triggers Polly for serverless speech generation.
-- Amazon CloudWatch: Monitors Polly usage and performance metrics.
-- Amazon API Gateway: Exposes Polly functionality via APIs.
+- [[AWS Lambda]]: Triggers Polly for serverless speech generation.
+- [[Amazon CloudWatch]]: Monitors Polly usage and performance metrics.
+- [[Amazon API Gateway]]: Exposes Polly functionality via APIs.
 
 ### Related Concepts
 

@@ -9,7 +9,7 @@ Fully managed business intelligence (BI) service for creating interactive dashbo
 - [[Amazon RDS]]: Provides relational data for dashboards.
 - [[Amazon Redshift]]: Integrates for large-scale data warehousing queries.
 - [[Amazon Athena]]: Queries S3 data for QuickSight visualizations.
-- AWS IAM: Manages access to QuickSight dashboards and data sources.
+- [[AWS IAM]]: Manages access to QuickSight dashboards and data sources.
 
 ### Related Concepts
 

@@ -6,9 +6,9 @@ Fully managed, petabyte-scale data warehouse service for analyzing large dataset
 ### Related Services
 
 - [[Amazon S3]]: Stores data for Redshift ingestion and backups.
-- AWS Glue: Prepares and loads data into Redshift.
+- [[AWS Glue]]: Prepares and loads data into Redshift.
 - [[Amazon QuickSight]]: Visualizes Redshift data in dashboards.
-- Amazon Kinesis: Streams real-time data to Redshift.
+- [[Amazon Kinesis]]: Streams real-time data to Redshift.
 - [[AWS Database Migration Service (DMS)]]: Migrates databases to Redshift.
 
 ### Related Concepts

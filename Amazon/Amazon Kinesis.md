@@ -6,10 +6,10 @@ Fully managed service for real-time data streaming, processing, and analytics. I
 ### Related Services
 
 - [[Amazon S3]]: Stores processed or archived streaming data.
-- AWS Lambda: Processes Kinesis streams in real-time.
+- [[AWS Lambda]]: Processes Kinesis streams in real-time.
 - [[Amazon Redshift]]: Receives data from Kinesis Firehose for data warehousing.
 - [[Amazon CloudWatch]]: Monitors Kinesis performance and stream metrics.
-- AWS IAM: Controls access to Kinesis streams and resources.
+- [[AWS IAM]]: Controls access to Kinesis streams and resources.
 
 ### Related Concepts
 - Real-Time Streaming: Ingests and processes data with minimal latency.

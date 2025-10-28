@@ -8,8 +8,8 @@ Fully managed relational database service supporting engines like MySQL, Postgre
 - [[Amazon Aurora]]: High-performance engine within RDS family.
 - [[AWS Database Migration Service (DMS)]]: Migrates databases to RDS.
 - [[Amazon CloudWatch]]: Monitors RDS performance metrics and logs.
-- AWS IAM: Controls access to RDS instances.
-- Amazon VPC: Secures RDS in isolated network environments.
+- [[AWS IAM]]: Controls access to RDS instances.
+- [[Amazon VPC]]: Secures RDS in isolated network environments.
 
 ### Related Concepts
 - Relational Databases: Structured data with SQL and ACID compliance.

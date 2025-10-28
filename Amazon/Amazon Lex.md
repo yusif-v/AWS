@@ -5,11 +5,11 @@ Fully managed service for building conversational interfaces (chatbots) using na
 
 ### Related Services
 
-- AWS Lambda: Executes business logic triggered by Lex intents.
-- Amazon API Gateway: Connects Lex bots to external APIs or applications.
+- [[AWS Lambda]]: Executes business logic triggered by Lex intents.
+- [[Amazon API Gateway]]: Connects Lex bots to external APIs or applications.
 - [[Amazon CloudWatch]]: Monitors Lex performance and conversation logs.
 - [[Amazon Polly]]: Provides text-to-speech for Lex voice responses.
-- Amazon Connect: Integrates Lex for contact center automation.
+- [[Amazon Connect]]: Integrates Lex for contact center automation.
 
 ### Related Concepts
 

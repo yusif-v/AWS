@@ -5,10 +5,10 @@ Simplified platform for launching and managing virtual private servers (VPS) wit
 
 ### Related Services
 
-- Amazon EC2: Provides more advanced, customizable compute options compared to Lightsail’s simplicity.
+- [[Amazon EC2]]: Provides more advanced, customizable compute options compared to Lightsail’s simplicity.
 - [[Amazon RDS]]: Lightsail databases are a simplified alternative for relational storage.
-- Amazon Route 53: Manages DNS for Lightsail-hosted applications.
-- Amazon CloudWatch: Monitors Lightsail instance metrics and performance.
+- [[Amazon Route 53]]: Manages DNS for Lightsail-hosted applications.
+- [[Amazon CloudWatch]]: Monitors Lightsail instance metrics and performance.
 
 ### Related Concepts
 
