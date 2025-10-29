@@ -26,3 +26,4 @@
 [[Amazon Macie]]
 [[Amazon Kendra]]
 [[Amazon Comprehend]]
+[[Amazon Detective]]
