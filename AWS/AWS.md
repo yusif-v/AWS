@@ -24,3 +24,4 @@
 [[AWS Elastic Beanstalk]]
 [[AWS Management Console]]
 [[AWS Architecture Design Principles]]
+[[AWS Auto Scaling]]
