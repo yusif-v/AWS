@@ -7,7 +7,7 @@ Managed security service for investigating potential security issues. Analyzes a
 
 - [[Amazon GuardDuty]]: Generates findings analyzed by Detective.
 - [[AWS CloudTrail]]: Provides API logs for Detective investigations.
-- Amazon VPC: Supplies flow logs for network analysis.
+- [[Amazon VPC]]: Supplies flow logs for network analysis.
 - AWS Security Hub: Centralizes findings for Detective integration.
 - [[Amazon CloudWatch]]: Monitors metrics related to investigations.
 
