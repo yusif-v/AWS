@@ -27,3 +27,4 @@
 [[Amazon Kendra]]
 [[Amazon Comprehend]]
 [[Amazon Detective]]
+[[Amazon FSx File Gateway]]
