@@ -5,11 +5,11 @@ Command-line interface for managing AWS services and resources. Enables automati
 
 ### Related Services
 
-- AWS IAM: Manages credentials and permissions for CLI access.
-- Amazon EC2: Executes CLI commands to manage instances.
-- Amazon S3: Performs file uploads/downloads via CLI.
-- AWS CloudFormation: Deploys and manages stacks using CLI commands.
-- Amazon CloudWatch: Queries metrics and logs through CLI.
+- [[AWS IAM]]: Manages credentials and permissions for CLI access.
+- [[Amazon EC2]]: Executes CLI commands to manage instances.
+- [[Amazon S3]]: Performs file uploads/downloads via CLI.
+- [[AWS CloudFormation]]: Deploys and manages stacks using CLI commands.
+- [[Amazon CloudWatch]]: Queries metrics and logs through CLI.
 
 ### Related Concepts
 

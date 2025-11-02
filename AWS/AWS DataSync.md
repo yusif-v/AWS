@@ -9,7 +9,7 @@ Service for automating and accelerating data transfer between on-premises storag
 - Amazon EFS: Syncs data to scalable file storage.
 - Amazon FSx: Transfers data to managed file systems like FSx for Windows File Server.
 - [[AWS Snowball]]: Complements DataSync for large-scale offline transfers.
-- Amazon CloudWatch: Monitors DataSync tasks and performance.
+- [[Amazon CloudWatch]]: Monitors DataSync tasks and performance.
 
 ### Related Concepts
 

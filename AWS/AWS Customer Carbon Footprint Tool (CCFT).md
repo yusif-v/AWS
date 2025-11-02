@@ -7,7 +7,7 @@ Free tool in the AWS Billing Console providing a dashboard for estimating and tr
 
 - AWS Billing and Cost Management: Hosts the CCFT dashboard and reports.
 - AWS Cost Explorer: Analyzes costs alongside emissions for optimization.
-- Amazon CloudWatch: Monitors resource metrics contributing to emissions.
+- [[Amazon CloudWatch]]: Monitors resource metrics contributing to emissions.
 - AWS Sustainability: Provides broader sustainability insights and guidance.
 
 ### Related Concepts
