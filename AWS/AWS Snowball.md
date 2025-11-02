@@ -5,9 +5,9 @@ Portable data transfer service for moving terabytes to petabytes of data to/from
 
 ### Related Services
 
-- Amazon S3: Primary destination for Snowball data uploads.
+- [[Amazon S3]]: Primary destination for Snowball data uploads.
 - [[AWS Snowcone]]: Smaller (8 TB) device, discontinued Nov 2024.
-- AWS DataSync: Recommended alternative for network-based transfers.
+- [[AWS DataSync]]: Recommended alternative for network-based transfers.
 - AWS KMS: Manages encryption keys for secure data.
 - AWS IoT Greengrass: Extends edge capabilities on Snowball Edge.
 
