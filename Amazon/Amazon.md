@@ -28,3 +28,4 @@
 [[Amazon Comprehend]]
 [[Amazon Detective]]
 [[Amazon FSx File Gateway]]
+[[Amazon Inspector]]
