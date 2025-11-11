@@ -5,7 +5,7 @@ Fully managed hybrid storage service within AWS Storage Gateway, providing low-l
 
 ### Related Services
 
-- AWS Storage Gateway: Core service hosting FSx File Gateway mode.
+- [[AWS Storage Gateway]]: Core service hosting FSx File Gateway mode.
 - Amazon FSx for Windows File Server: Cloud file storage accessed via the gateway.
 - [[Amazon EC2]]: Runs virtual gateways for FSx access.
 - [[Amazon CloudWatch]]: Monitors gateway performance and metrics.
