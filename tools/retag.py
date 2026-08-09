@@ -36,10 +36,14 @@ def retag_content(path, name, tag, kind):
         lines = fh.read().split("\n")
     if lines:
         lines[0] = f"#AWS #{kind} #{tag}"
+    heading_found = False
     for i, ln in enumerate(lines):
         if ln.startswith("### "):
             lines[i] = f"### {name}"
+            heading_found = True
             break
+    if not heading_found:
+        lines.insert(1, f"### {name}")
     return "\n".join(lines)
 
 
