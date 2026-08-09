@@ -48,3 +48,6 @@
 !EC2/
 !Cloud/
 !Amazon/
+
+# Working docs / plans (not vault notes)
+docs/
