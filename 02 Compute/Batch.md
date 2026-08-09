@@ -1,5 +1,5 @@
 #AWS #Service #Compute
-### AWS Batch
+### Batch
 
 AWS Batch is a fully managed batch computing service for running large-scale parallel jobs. It dynamically provisions EC2 or Fargate resources based on job queue demand, supports containerized and native jobs, and is suited for rendering, analytics, and scientific workloads.
 

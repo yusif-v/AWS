@@ -1,5 +1,5 @@
 #AWS #Service #Compute
-### AWS App Runner
+### App Runner
 
 AWS App Runner is a fully managed service for deploying containerized web applications directly from a source repo or image. It handles scaling, load balancing, TLS, and deployment automatically, making it one of the simplest ways to run web apps and APIs on AWS.
 
