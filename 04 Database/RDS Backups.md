@@ -7,7 +7,7 @@ RDS provides automated backups with point-in-time recovery (restorable to any se
 
 - [[RDS]]: The database service backing up data.
 - [[S3]]: Where backups and snapshots are stored.
-- [[AWS Backup]]: Centralized backup management.
+- [[Backup]]: Centralized backup management.
 
 ### Related Concepts
 

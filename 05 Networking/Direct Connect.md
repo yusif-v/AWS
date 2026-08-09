@@ -8,7 +8,7 @@ Service providing a dedicated network connection from on-premises to AWS, bypass
 - [[VPC]]: Connects to AWS resources via Direct Connect for private networking.
 - AWS Transit Gateway: Simplifies routing between VPCs and Direct Connect.
 - [[CloudWatch]]: Monitors Direct Connect performance and metrics.
-- [[AWS VPN]]: Complements Direct Connect for encrypted, internet-based connections.
+- AWS VPN: Complements Direct Connect for encrypted, internet-based connections.
 - [[S3]]: Transfers large datasets via Direct Connect.
 
 ### Related Concepts

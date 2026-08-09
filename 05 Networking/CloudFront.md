@@ -9,7 +9,7 @@ Content Delivery Network (CDN) service that accelerates delivery of static and d
 - Elastic Load Balancing (ELB): Distributes traffic for dynamic content with CloudFront.
 - AWS Lambda@Edge: Runs serverless code at edge locations for customized content delivery.
 - [[Shield]]: Provides DDoS protection for CloudFront distributions.
-- [[AWS WAF]]: Filters malicious traffic for CloudFront-hosted content.
+- [[WAF]]: Filters malicious traffic for CloudFront-hosted content.
 
 ### Related Concepts
 

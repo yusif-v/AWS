@@ -5,10 +5,10 @@ Fully managed vulnerability management service that scans AWS workloads (EC2, La
 
 ### Related Services
 
-- [[AWS Security Hub]]: Aggregates Inspector findings for centralized security.
+- [[Security Hub]]: Aggregates Inspector findings for centralized security.
 - [[EC2]]: Scans instances for vulnerabilities.
 - [[Lambda]]: Assesses functions and layers.
-- [[Amazon ECR]]: Scans container images.
+- Amazon ECR: Scans container images.
 - [[CloudWatch]]: Monitors Inspector metrics and events.
 
 ### Related Concepts

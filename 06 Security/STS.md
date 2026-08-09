@@ -7,7 +7,7 @@ Service for granting temporary, limited-privilege credentials for AWS IAM users 
 
 - AWS IAM: Manages users, roles, and policies integrated with STS.
 - [[Cognito]]: Uses STS for temporary credentials in identity pools.
-- [[AWS Single Sign-On (SSO)]]: Leverages STS for federated access to AWS accounts.
+- AWS Single Sign-On (SSO): Leverages STS for federated access to AWS accounts.
 - Amazon S3: Accesses resources using STS temporary credentials.
 - AWS Lambda: Assumes roles via STS for function execution.
 

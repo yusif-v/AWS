@@ -15,7 +15,7 @@ Managed DDoS protection service safeguarding AWS applications. Includes **Shiel
 
 ### Related Services
 
-- [[AWS WAF]]: Integrates with Shield Advanced for Layer 7 attack filtering.
+- [[WAF]]: Integrates with Shield Advanced for Layer 7 attack filtering.
 - [[CloudFront]]: Protected by Shield for content delivery.
 - Elastic Load Balancing (ELB): Shield ensures availability during attacks.
 - [[Route 53]]: Shields DNS infrastructure from DDoS.

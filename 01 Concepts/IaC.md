@@ -6,10 +6,10 @@ Practice of managing and provisioning infrastructure through code and automation
 ### Related Services
 
 - [[CloudFormation]]: Automates resource provisioning with JSON/YAML templates.
-- [[AWS CDK]]: Defines IaC using programming languages like Python or TypeScript.
-- [[AWS SAM]]: Simplifies serverless IaC for Lambda and API Gateway.
+- AWS CDK: Defines IaC using programming languages like Python or TypeScript.
+- AWS SAM: Simplifies serverless IaC for Lambda and API Gateway.
 - [[Config]]: Monitors IaC-managed resource configurations.
-- [[AWS OpsWorks]]: Manages IaC for Chef/Puppet configurations.
+- AWS OpsWorks: Manages IaC for Chef/Puppet configurations.
 
 ### Related Concepts
 

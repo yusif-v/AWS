@@ -9,7 +9,7 @@ Fully managed, serverless ETL (Extract, Transform, Load) service for discovering
 - [[Athena]]: Queries data using Glue's data catalog.
 - [[Redshift]]: Loads ETL-processed data from Glue.
 - [[Lambda]]: Integrates for custom ETL functions or triggers.
-- [[Amazon EMR]]: Complements Glue for big data processing workflows.
+- [[EMR]]: Complements Glue for big data processing workflows.
 
 ### Related Concepts
 

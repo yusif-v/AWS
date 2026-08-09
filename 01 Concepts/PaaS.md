@@ -6,7 +6,7 @@ Cloud computing model providing a managed platform for developing, deploying, an
 ### Related Services
 
 - [[Elastic Beanstalk]]: Deploys and manages web applications with minimal infrastructure setup.
-- [[AWS App Runner]]: Simplifies containerized application deployment and scaling.
+- [[App Runner]]: Simplifies containerized application deployment and scaling.
 - [[RDS]]: Manages relational databases, automating backups and patching.
 - [[Lambda]]: Runs serverless code for event-driven applications.
 - [[API Gateway]]: Creates and manages APIs for PaaS applications.

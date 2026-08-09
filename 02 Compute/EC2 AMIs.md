@@ -7,7 +7,7 @@ An Amazon Machine Image (AMI) is a template containing the OS, applications, and
 
 - [[EC2]]: Launches instances from AMIs.
 - [[EC2 Storage]]: Block devices defined by the AMI.
-- [[AWS Backup]]: Creates instance backups as images.
+- [[Backup]]: Creates instance backups as images.
 
 ### Related Concepts
 

@@ -6,7 +6,7 @@ Fully managed, centralized backup service for automating and managing backups ac
 ### Related Services
 
 - [[EC2]]: Backs up instances and attached EBS volumes.
-- [[Amazon EBS]]: Creates snapshots for block storage backups.
+- [[EBS]]: Creates snapshots for block storage backups.
 - [[RDS]]: Automates database backups and restores.
 - [[DynamoDB]]: Backs up tables with point-in-time recovery.
 - [[S3]]: Supports backup storage and lifecycle policies.

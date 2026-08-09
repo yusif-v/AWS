@@ -15,7 +15,7 @@ Guidelines for building robust, scalable, and efficient systems on AWS, aligned 
 ### Related Services
 
 - [[CloudFormation]]: Enables automated, repeatable infrastructure provisioning.
-- [[Elastic Load Balancing (ELB)]]: Distributes traffic to avoid overload and single failures.
+- [[ELB]]: Distributes traffic to avoid overload and single failures.
 - [[SQS]]: Facilitates loose coupling via asynchronous messaging.
 - [[Auto Scaling]]: Automates resource scaling for elasticity.
 - [[AWS Well-Architected Tool]]: Evaluates architectures against design principles.

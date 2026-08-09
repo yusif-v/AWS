@@ -7,7 +7,7 @@ Fully managed data security service using machine learning and pattern matching 
 
 - [[S3]]: Primary storage for data scanning and protection.
 - [[EventBridge]]: Routes findings to targets like Lambda or SNS.
-- [[AWS Security Hub]]: Aggregates Macie findings for security posture.
+- [[Security Hub]]: Aggregates Macie findings for security posture.
 - [[Lambda]]: Automates remediation based on findings.
 - [[AWS Organizations]]: Enables multi-account management.
 - [[GuardDuty]]: Complements with threat detection.

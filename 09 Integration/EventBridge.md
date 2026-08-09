@@ -9,7 +9,7 @@ Fully managed serverless event bus service for connecting applications using eve
 - [[SNS]]: Receives EventBridge events for notifications.
 - [[SQS]]: Queues EventBridge events for processing.
 - [[CloudWatch]]: Monitors EventBridge metrics and logs events.
-- [[AWS Step Functions]]: Orchestrates workflows triggered by EventBridge.
+- [[Step Functions]]: Orchestrates workflows triggered by EventBridge.
 
 ### Related Concepts
 

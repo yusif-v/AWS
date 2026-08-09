@@ -6,7 +6,7 @@ Cloud computing model providing virtualized compute, storage, and networking res
 ### Related Services
 
 - [[EC2]]: Provides virtual servers for compute resources.
-- [[Amazon EBS]]: Offers block storage for EC2 instances.
+- [[EBS]]: Offers block storage for EC2 instances.
 - [[VPC]]: Enables isolated network environments for IaaS resources.
 - [[Auto Scaling]]: Adjusts IaaS resource capacity based on demand.
 - [[CloudWatch]]: Monitors IaaS performance and metrics.
