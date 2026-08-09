@@ -17,3 +17,13 @@ Fully managed service for securely controlling access to AWS resources. Defines 
 - IAM Policies: JSON rules defining actions, resources, and conditions.
 - Role Assumption: Allows temporary access via roles for users or services.
 - Identity Federation: Integrates external providers (e.g., SAML, OIDC) for SSO.
+
+### Policies & Roles
+
+- [[IAM Policies]]: JSON documents that define permissions.
+- [[IAM Roles]]: Temporary credentials for users and services.
+
+### Federated Access
+
+- [[IAM Identity Center]]: Centralized SSO across AWS accounts and apps.
+- [[STS]]: Issues the temporary credentials behind roles.
