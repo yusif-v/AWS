@@ -17,3 +17,7 @@ Serverless compute service that runs code in response to events without managing
 - Event-Driven Architecture: Executes code in response to triggers like HTTP requests or data changes.
 - Function as a Service (FaaS): Runs stateless, short-lived functions for specific tasks.
 - Cold Start: Initial latency for function initialization affecting performance.
+
+### Runtime & Limits
+
+Lambda supports multiple runtimes and charges per invocation and compute time. Event sources include S3, DynamoDB Streams, Kinesis, SQS, and API Gateway. See the Related Services and Related Concepts sections below.
