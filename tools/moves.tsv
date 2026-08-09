@@ -1,0 +1,92 @@
+old	new	tag	kind
+AWS/AWS Shared Responsibility Model.md	01 Concepts/Shared Responsibility Model.md	Concept	Concept
+AWS/AWS Architecture Design Principles.md	01 Concepts/Architecture Design Principles.md	Concept	Concept
+AWS/AWS Migration Strategies.md	01 Concepts/Migration Strategies.md	Concept	Concept
+AWS/AWS Cloud Adoption Framework (CAF).md	01 Concepts/CAF.md	Concept	Concept
+AWS/AWS Well-Architected Framework.md	01 Concepts/Well-Architected Framework.md	Concept	Concept
+AWS/AWS rePost.md	01 Concepts/rePost.md	Concept	Service
+AWS/AWS Customer Carbon Footprint Tool (CCFT).md	01 Concepts/CCFT.md	Concept	Service
+Cloud/Infrastructure as a Service (IaaS).md	01 Concepts/IaaS.md	Concept	Concept
+Cloud/Platform as a Service (PaaS).md	01 Concepts/PaaS.md	Concept	Concept
+Cloud/Software as a Service (SaaS).md	01 Concepts/SaaS.md	Concept	Concept
+Cloud/Infrastructure as Code (IaC).md	01 Concepts/IaC.md	Concept	Concept
+EC2/Amazon EC2.md	02 Compute/EC2.md	Compute	Service
+AWS/AWS Lambda.md	02 Compute/Lambda.md	Compute	Service
+AWS/AWS Elastic Beanstalk.md	02 Compute/Elastic Beanstalk.md	Compute	Service
+AWS/AWS Fargate.md	02 Compute/Fargate.md	Compute	Service
+AWS/AWS Auto Scaling.md	02 Compute/Auto Scaling.md	Compute	Service
+AWS/AWS Outposts.md	02 Compute/Outposts.md	Compute	Service
+Amazon/Amazon Lightsail.md	02 Compute/Lightsail.md	Compute	Service
+S3/Amazon S3.md	03 Storage/S3.md	Storage	Service
+S3/S3 Access Control.md	03 Storage/S3 Access Control.md	Storage	Service
+S3/S3 Encryption.md	03 Storage/S3 Encryption.md	Storage	Service
+S3/S3 Event Notifications.md	03 Storage/S3 Event Notifications.md	Storage	Service
+S3/S3 Glacier.md	03 Storage/S3 Glacier.md	Storage	Service
+S3/S3 Intelligent-Tiering.md	03 Storage/S3 Intelligent-Tiering.md	Storage	Service
+S3/S3 Lifecycle.md	03 Storage/S3 Lifecycle.md	Storage	Service
+S3/S3 One Zone-IA.md	03 Storage/S3 One Zone-IA.md	Storage	Service
+S3/S3 Replication.md	03 Storage/S3 Replication.md	Storage	Service
+S3/S3 Select.md	03 Storage/S3 Select.md	Storage	Service
+S3/S3 Standard-Infrequent Access (IA).md	03 Storage/S3 Standard-Infrequent Access (IA).md	Storage	Service
+S3/S3 Standard.md	03 Storage/S3 Standard.md	Storage	Service
+S3/S3 Versioning.md	03 Storage/S3 Versioning.md	Storage	Service
+Amazon/Amazon EFS.md	03 Storage/EFS.md	Storage	Service
+Amazon/Amazon FSx File Gateway.md	03 Storage/FSx File Gateway.md	Storage	Service
+AWS/AWS Backup.md	03 Storage/Backup.md	Storage	Service
+AWS/AWS DataSync.md	03 Storage/DataSync.md	Storage	Service
+Amazon/Amazon RDS.md	04 Database/RDS.md	Database	Service
+Amazon/Amazon Aurora.md	04 Database/Aurora.md	Database	Service
+Amazon/Amazon DynamoDB.md	04 Database/DynamoDB.md	Database	Service
+Amazon/Amazon Redshift.md	04 Database/Redshift.md	Database	Service
+Amazon/Amazon Neptune.md	04 Database/Neptune.md	Database	Service
+Amazon/Amazon VPC.md	05 Networking/VPC.md	Networking	Service
+Amazon/Amazon CloudFront.md	05 Networking/CloudFront.md	Networking	Service
+Amazon/Amazon Route 53.md	05 Networking/Route 53.md	Networking	Service
+Amazon/Amazon API Gateway.md	05 Networking/API Gateway.md	Networking	Service
+AWS/AWS Direct Connect.md	05 Networking/Direct Connect.md	Networking	Service
+AWS/AWS IAM.md	06 Security/IAM.md	Security	Service
+AWS/AWS Key Management Service (KMS).md	06 Security/KMS.md	Security	Service
+AWS/AWS Security Token Service (STS).md	06 Security/STS.md	Security	Service
+AWS/AWS Shield.md	06 Security/Shield.md	Security	Service
+AWS/AWS Artifact.md	06 Security/Artifact.md	Security	Service
+AWS/AWS CloudTrail.md	06 Security/CloudTrail.md	Security	Service
+AWS/AWS Config.md	06 Security/Config.md	Security	Service
+Amazon/Amazon GuardDuty.md	06 Security/GuardDuty.md	Security	Service
+Amazon/Amazon Inspector.md	06 Security/Inspector.md	Security	Service
+Amazon/Amazon Macie.md	06 Security/Macie.md	Security	Service
+Amazon/Amazon Detective.md	06 Security/Detective.md	Security	Service
+Amazon/Amazon Cognito.md	06 Security/Cognito.md	Security	Service
+Amazon/Amazon Athena.md	07 Analytics/Athena.md	Analytics	Service
+Amazon/Amazon Kinesis.md	07 Analytics/Kinesis.md	Analytics	Service
+Amazon/Amazon QuickSight.md	07 Analytics/QuickSight.md	Analytics	Service
+AWS/AWS Glue.md	07 Analytics/Glue.md	Analytics	Service
+Amazon/Amazon SageMaker.md	08 Machine Learning/SageMaker.md	ML	Service
+Amazon/Amazon Rekognition.md	08 Machine Learning/Rekognition.md	ML	Service
+Amazon/Amazon Comprehend.md	08 Machine Learning/Comprehend.md	ML	Service
+Amazon/Amazon Polly.md	08 Machine Learning/Polly.md	ML	Service
+Amazon/Amazon Transcribe.md	08 Machine Learning/Transcribe.md	ML	Service
+Amazon/Amazon Lex.md	08 Machine Learning/Lex.md	ML	Service
+Amazon/Amazon Kendra.md	08 Machine Learning/Kendra.md	ML	Service
+Amazon/Amazon SQS.md	09 Integration/SQS.md	Integration	Service
+Amazon/Amazon SNS.md	09 Integration/SNS.md	Integration	Service
+Amazon/Amazon EventBridge.md	09 Integration/EventBridge.md	Integration	Service
+Amazon/Amazon CloudWatch.md	10 Management/CloudWatch.md	Management	Service
+AWS/AWS CloudFormation.md	10 Management/CloudFormation.md	Management	Service
+AWS/AWS Management Console.md	10 Management/Management Console.md	Management	Service
+AWS/AWS CodeCommit.md	11 Developer Tools/CodeCommit.md	DevTools	Service
+AWS/AWS CodeBuild.md	11 Developer Tools/CodeBuild.md	DevTools	Service
+AWS/AWS CodeDeploy.md	11 Developer Tools/CodeDeploy.md	DevTools	Service
+AWS/AWS CodePipeline.md	11 Developer Tools/CodePipeline.md	DevTools	Service
+AWS/AWS CodeStar.md	11 Developer Tools/CodeStar.md	DevTools	Service
+AWS/AWS Application Composer.md	11 Developer Tools/Application Composer.md	DevTools	Service
+AWS/AWS CLI.md	11 Developer Tools/AWS CLI.md	DevTools	Service
+AWS/AWS Application Migration Service (MGN).md	12 Migration/MGN.md	Migration	Service
+AWS/AWS Application Discovery Service.md	12 Migration/Application Discovery Service.md	Migration	Service
+AWS/AWS Database Migration Service (DMS).md	12 Migration/DMS.md	Migration	Service
+AWS/AWS Schema Conversion Tool (SCT).md	12 Migration/SCT.md	Migration	Service
+AWS/AWS Migration Hub.md	12 Migration/Migration Hub.md	Migration	Service
+AWS/AWS Snowball.md	12 Migration/Snowball.md	Migration	Service
+AWS/AWS Snowball Edge.md	12 Migration/Snowball Edge.md	Migration	Service
+AWS/AWS Snowcone.md	12 Migration/Snowcone.md	Migration	Service
+Amazon/Amazon Connect.md	13 Business/Connect.md	Business	Service
+Amazon/Amazon Elastic Transcoder.md	13 Business/Elastic Transcoder.md	Business	Service
