@@ -3,6 +3,12 @@
 
 Framework defining the division of security and compliance responsibilities between AWS and customers. AWS manages the security of the cloud infrastructure (physical data centers, hardware, virtualization), while customers manage security in the cloud (data, applications, configurations). Responsibilities vary by service type (IaaS, PaaS, SaaS), ensuring a secure and compliant cloud environment.
 
+### How It Works
+- AWS is responsible for "security of the cloud": physical data centers, hardware, networking, and the virtualization layer.
+- Customers are responsible for "security in the cloud": data, identity, applications, and configuration.
+- The boundary shifts depending on the service model: IaaS gives customers the most control, SaaS the least.
+- Both parties share certain controls such as patch management and configuration.
+
 ### AWS Responsibilities
 
 - **Physical Security**: Secures data centers with restricted access, surveillance, and environmental controls.
@@ -33,6 +39,12 @@ Framework defining the division of security and compliance responsibilities betw
 - **Configuration**: AWS secures services; customers configure resources.
 - **Training**: AWS provides compliance docs; customers train teams.
 
+### Common Use Cases
+- Determining which party must fix a security issue or meet a compliance control.
+- Designing architectures that place responsibility where the organization can act.
+- Preparing for certification exams that test responsibility boundaries per service.
+- Negotiating audit scope by referencing AWS compliance documentation.
+
 ### Related Services
 
 - [[IAM]]: Manages user access and permissions for customer responsibilities.
@@ -48,3 +60,4 @@ Framework defining the division of security and compliance responsibilities betw
 - Compliance Frameworks: AWS supports GDPR, HIPAA, PCI DSS; customers configure compliance.
 - Data Encryption: Protects data at rest and in transit for security.
 - Monitoring and Logging: Tracks resource activity for security and compliance.
+- [[Cloud Computing Overview]]: The model applies across all cloud service models.
